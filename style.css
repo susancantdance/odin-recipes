@@ -1,0 +1,42 @@
+body{
+background-color: pink;
+
+}
+.blue {
+    color: hotpink;
+    font-family: "Courier", serif;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.thelink {
+    font-size: 30px;
+}
+
+a.link {
+    color: hotpink;
+    text-decoration: none;
+   
+}
+
+a.visited {
+    color: hotpink;
+    text-decoration: none;
+    font-size: 30px;
+}
+a.hover {
+    color: purple;
+    text-decoration: underline;
+    font-size: 30px;
+    }
+
+.list-style {
+    margin: 20px auto;
+    background-color: #ffc0cb;
+    border: 4px dotted hotpink;
+    padding: 60px;
+    width: 500px;
+}
+
+
